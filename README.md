@@ -4,7 +4,7 @@
 
 
 ## 📊 My GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveenkumar872e&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveenkumar872&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumar872&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=naveenkumar872&theme=radical)
 
